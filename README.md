@@ -50,3 +50,10 @@ Here are some ideas to get you started:
 </div>
 
 ---
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sankuuX07&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
