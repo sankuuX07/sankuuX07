@@ -61,16 +61,41 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### ⚡ Currently Building
+---
 
-🚀 **ARENA** — Student Competitive Learning Platform  
-🔐 **SecurePrint** — Secure Digital Printing Platform  
-🎮 **Sansku-Desktop** — Low-Latency Gaming Streaming  
+## 👨‍💻 About Me
 
-<br>
+I'm **Sanskar Bhuimbar**, a Computer Engineering student who enjoys turning ideas into real-world software.
+
+I mainly work with **Python, FastAPI, React, Java, Spring Boot and Firebase**, and I'm interested in building complete products rather than just small demos.
+
+### 🚀 What I'm Building
+
+- 🏆 **ARENA** — A competitive learning and placement-preparation platform for students.
+- 🔐 **SecurePrint** — A secure digital printing platform connecting customers and printing shops.
+- 🎮 **Sansku-Desktop** — A low-latency gaming streaming project.
+- 🎬 **Sansky Editor** — A gaming-focused video editing/automation project.
+
+### 🌱 Currently Learning
+
+`Backend Development` • `APIs` • `System Design` • `Cloud` • `Full-Stack Development`
+
+### ⚡ My Approach
+
+> **Learn → Build → Break → Fix → Ship → Repeat**
 
 ### 🎯 2026 Goals
 
 Build → Ship → Learn → Improve → Repeat
+
+</div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=SANSKAR%20BHUiMBAR&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18"/>
+
+</div>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+real-world+projects+%F0%9F%9A%80;Exploring+Full-Stack+Development+%F0%9F%92%BB;Learning+Something+New+Every+Day+%F0%9F%94%A5;Turning+Ideas+Into+Code+%E2%9A%A1" alt="Typing SVG" />
 
 </div>
