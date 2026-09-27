@@ -102,7 +102,7 @@ High-performance low-latency **iPhone → Windows game streaming application**.
 
 <td width="50%" valign="top">
 
-<h3>🎬 Sansky Editor</h3>
+<h3>🎬AI_Edits</h3>
 
 Gaming-focused **video editing and automation project** designed around faster content creation.
 
