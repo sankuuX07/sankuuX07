@@ -57,3 +57,20 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=sankuuX07&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
+<br>
+
+<div align="center">
+
+### ⚡ Currently Building
+
+🚀 **ARENA** — Student Competitive Learning Platform  
+🔐 **SecurePrint** — Secure Digital Printing Platform  
+🎮 **Sansku-Desktop** — Low-Latency Gaming Streaming  
+
+<br>
+
+### 🎯 2026 Goals
+
+Build → Ship → Learn → Improve → Repeat
+
+</div>
