@@ -84,7 +84,7 @@ I mainly work with **Python, FastAPI, React, Java, Spring Boot and Firebase**, a
 
 <td width="50%" valign="top">
 
-<h3>🎮 Sansku-Desktop</h3>
+<h3>🎮 Desktop_Mirroring</h3>
 
 High-performance low-latency **iPhone → Windows game streaming application**.
 
