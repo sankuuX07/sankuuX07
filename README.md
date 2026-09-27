@@ -15,7 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
+---
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
+
+### ⚙️ Frameworks & Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,react" />
+
+### 🗄️ Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</div>
+
+---
 ## 🐍 Contribution Activity
 
 <div align="center">
