@@ -197,7 +197,7 @@ Secure digital printing platform connecting **customers and printing shops** wit
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sankuuX07/sankuuX07/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/sankuuX07/sankuuX07/output/github-contribution-grid-snake.svg" alt="Pink GitHub Contribution Snake"/>
 
 </div>
 
