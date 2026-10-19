@@ -1,6 +1,7 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B005D,50:E91E8C,100:FF69B4&height=230&section=header&text=SANSKAR%20BHUIMBAR&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=18"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B005D,50:E91E8C,100:FF69B4&height=230&section=header&text=SANSKAR%20BHUIMBAR&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=18" alt="Sanskar Bhuimbar header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Building+real-world+projects+%F0%9F%9A%80;Exploring+Full-Stack+Development+%F0%9F%92%BB;Turning+Ideas+Into+Code+%E2%9A%A1;Learning+Something+New+Every+Day+%F0%9F%94%A5" alt="Typing SVG"/>
 
@@ -13,7 +14,10 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sankuuX07&label=PROFILE%20VIEWS&color=FF1493&style=for-the-badge&abbreviated=false" alt="Profile Views Counter"/>
+<!-- FIXED: Removed the broken Komarev counter image -->
+<a href="https://github.com/sankuuX07">
+  <img src="https://img.shields.io/badge/GITHUB-PROFILE-FF1493?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub Profile"/>
+</a>
 
 </div>
 
@@ -145,7 +149,7 @@ Secure digital printing platform with document and print-job management.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sankuuX07/sankuuX07/output/github-contribution-grid-snake.svg" alt="Pink GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/sankuuX07/sankuuX07/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -155,10 +159,13 @@ Secure digital printing platform with document and print-job management.
 
 <div align="center">
 
-🚀 Build and ship real-world software  
-💻 Improve full-stack development skills  
-🧠 Strengthen problem-solving and system design  
-☁️ Explore cloud and backend architecture  
+🚀 Build and ship real-world software
+
+💻 Improve full-stack development skills
+
+🧠 Strengthen problem-solving and system design
+
+☁️ Explore cloud and backend architecture
 
 **BUILD · LEARN · IMPROVE · REPEAT**
 
